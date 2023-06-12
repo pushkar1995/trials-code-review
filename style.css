@@ -1,21 +1,21 @@
 body {
   background-color: aliceblue;
 }
-  
+
 #main-page {
   display: flex;
   gap: 250px;
 }
-  
+
 .active {
   padding: 5px;
 }
-  
+
 #list {
   list-style: none;
   text-align: start;
 }
-  
+
 #navbar {
   padding: 8px;
   display: flex;
@@ -26,20 +26,20 @@ body {
   line-height: 70px;
   position: fixed;
 }
-  
+
 #navbar > a {
   color: grey;
 }
-  
+
 .main-section > header {
   font-weight: bolder;
   font-size: larger;
 }
-  
+
 #navbar > header {
   font-size: larger;
 }
-  
+
 .function {
   background-color: lightgrey;
   width: 450px;

@@ -1,47 +1,47 @@
 body {
-    background-color: aliceblue;
-  }
+  background-color: aliceblue;
+}
   
-  #main-page {
-    display: flex;
-    gap: 250px;
-  }
+#main-page {
+  display: flex;
+  gap: 250px;
+}
   
-  .active {
-    padding: 5px;
-  }
+.active {
+  padding: 5px;
+}
   
-  #list {
-    list-style: none;
-    text-align: start;
-  }
+#list {
+  list-style: none;
+  text-align: start;
+}
   
-  #navbar {
-    padding: 8px;
-    display: flex;
-    flex-direction: column;
-    justify-content: stretch;
-    border: solid black;
-    height: 100%;
-    line-height: 70px;
-    position: fixed;
-  }
+#navbar {
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  border: solid black;
+  height: 100%;
+  line-height: 70px;
+  position: fixed;
+}
   
-  #navbar > a {
-    color: grey;
-  }
+#navbar > a {
+  color: grey;
+}
   
-  .main-section > header {
-    font-weight: bolder;
-    font-size: larger;
-  }
+.main-section > header {
+  font-weight: bolder;
+  font-size: larger;
+}
   
-  #navbar > header {
-    font-size: larger;
-  }
+#navbar > header {
+  font-size: larger;
+}
   
-  .function {
-    background-color: lightgrey;
-    width: 450px;
-    padding: 15px;
-  }
+.function {
+  background-color: lightgrey;
+  width: 450px;
+  padding: 15px;
+}

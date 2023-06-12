@@ -2,7 +2,7 @@ body {
   background-color: aliceblue;
 }
 
-#main-page {
+.main-page {
   display: flex;
   gap: 250px;
 }
@@ -16,7 +16,7 @@ body {
   text-align: start;
 }
 
-#navbar {
+.navbar {
   padding: 8px;
   display: flex;
   flex-direction: column;
@@ -27,7 +27,7 @@ body {
   position: fixed;
 }
 
-#navbar > a {
+.navbar > a {
   color: grey;
 }
 
@@ -36,7 +36,7 @@ body {
   font-size: larger;
 }
 
-#navbar > header {
+.navbar > header {
   font-size: larger;
 }
 
